@@ -14,3 +14,5 @@ function App() {
 }
 
 export default App;
+// https://github.com/parthsoni021194/ShopCart
+// https://shopcartmate.netlify.app/
